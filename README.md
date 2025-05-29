@@ -1,4 +1,4 @@
-# Fundamentos do CrewAI: Conceitos e Ecossistema
+# Primeiros Passos: Criando seu Primeiro Agente com CrewAI
 
 ## Aula 2: Configuração de Projeto e Escolha de Template
 
