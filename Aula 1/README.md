@@ -30,6 +30,6 @@ O pré-requisito para este curso é conhecer a estrutura básica de projetos, ga
 
 Ao concluir este curso, você terá a capacidade de criar agentes básicos, realizar testes práticos e evoluir gradualmente para projetos mais complexos, acelerando sua curva de aprendizado em IA e abrindo novas oportunidades profissionais.
 
-Vamos juntos superar as dificuldades iniciais e colocar em prática o seu primeiro projeto com CrewAI!
+Vamos juntos superar as dificuldades iniciais e colocar em prática o seu primeiro projeto com CrewAI! Todas as aulas (teóricas e práticas) estão organizadas no repositório oficial da DIO no GitHub. Não se esqueça de dar uma estrelinha e acompanhar as atualizações por lá. Caso tenha dúvidas ou encontre problemas, crie uma issue diretamente no repositório, eu ou alguém da comunidade estará pronto para ajudar!
 
 Vem comigo!
