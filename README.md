@@ -1,4 +1,4 @@
-# Primeiros Passos: Criando seu Primeiro Agente com CrewAI
+# Primeiros Passos: Criando seus Primeiros Agentes com CrewAI
 
 Neste curso prático, você dará os primeiros passos na criação de agentes inteligentes com CrewAI, aprendendo a
 confgurar, programar e executar seu primeiro agente. Ao fnal, você será capaz de criar agentes básicos, defnir comportamentos
@@ -30,3 +30,35 @@ Conquistas:
 Durante o curso, todas as práticas foram organizadas em um notebook interativo no Google Colab. Você pode executar os códigos diretamente do seu navegador, sem precisar instalar nada:
 
 [![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18RnBIaLQwPnIqfECIQqpJ5x6HLp8C5VD?usp=sharing)
+
+Na prática, desenvolvemos o seguinte projeto de Agentes Inteligentes neste curso:
+
+```mermaid
+---
+config:
+  layout: dagre
+  theme: neo-dark
+---
+flowchart TD
+  subgraph C["🤖 Crew: Python + CrewAI"]
+    subgraph Agentes["Agentes"]
+      MP["🧑‍🏫 Mentor Python"]
+      EC["👨‍💻 Especialista CrewAI"]
+      GI["💡 Gerador de Ideias"]
+    end
+    subgraph Tarefas["Tarefas"]
+      T1["📘 Guia Iniciante em Python"]
+      T2["🔧 Tutorial de Instalação CrewAI"]
+      T3["🤩 Ideias de Projetos com Python e CrewAI no Colab"]      
+      subgraph Saídas["Saídas"]
+        O1["📄 guia_python.md"]
+        O2["📄 tutorial_crewai.md"]
+        O3["📄 projetos_colab.md"]
+      end
+    end
+  end
+  MP --> T1 --> O1
+  EC --> T2 --> O2
+  GI --> T3 --> O3
+
+```
