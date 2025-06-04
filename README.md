@@ -24,3 +24,9 @@ Conquistas:
 - Aprimore suas habilidades em CrewAI através da Criação de Agentes.
 - Conquiste a Badge Primeiros Passos: Criando seu Primeiro Agente com CrewAI
 - Receba o Certifcado de Conclusão para Primeiros Passos: Criando seu Primeiro Agente com CrewAI
+
+## Prática Guiada no Google Colab
+
+Durante o curso, todas as práticas foram organizadas em um notebook interativo no Google Colab. Você pode executar os códigos diretamente do seu navegador, sem precisar instalar nada:
+
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18RnBIaLQwPnIqfECIQqpJ5x6HLp8C5VD?usp=sharing)
